@@ -1,4 +1,19 @@
-### Hi there 👋
+### Olá 👋
+
+👯 Quero colaborar em: 
+  * Escrever artigos sobre tecnologia (English/Português)
+  * Tradução para português e inglês (docs e projetos em javascript)
+
+⚡ Fun fact:
+  *esta é a primeira página da internet: http://info.cern.ch/
+  (não, não é o google!)*
+
+📫 Como me encontrar: 
+  * Twitter: @Douglas0n
+  * Instagram: douglas0n
+  * Email: douglasalves395@gmail.com
+  * LinkedIn: www.linkedin.com/in/douglas0n
+
 
 <!--
 **Douglas0n/douglas0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
