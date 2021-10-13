@@ -1,4 +1,4 @@
-### Olá 👋
+### Olá 👋 你好
 
 👯 Quero colaborar em: 
   * Escrever artigos sobre tecnologia (English/Português)
