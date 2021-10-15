@@ -1,18 +1,18 @@
-### Olá 👋 你好
+### Hi! 👋 你好
 
-👯 Quero colaborar em: 
-  * Escrever artigos sobre tecnologia (English/Português)
-  * Tradução para português e inglês (docs e projetos em javascript)
+👯 I want to collaborate on:
+   * Javascript projects and frameworks
+   * Translation into Portuguese and English (docs and projects in javascript)
 
 ⚡ Fun fact:
-  *esta é a primeira página da internet: http://info.cern.ch/
-  (não, não é o google!)*
+   *this is the first page on the internet: http://info.cern.ch/
+   (no, it's not google!)*
 
-📫 Como me encontrar: 
-  * Twitter: @Douglas0n
-  * Instagram: douglas0n
-  * Email: douglasalves395@gmail.com
-  * LinkedIn: www.linkedin.com/in/douglas0n
+📫 How to find me:
+   * Twitter: @Douglas0n
+   * Instagram: douglas0n
+   * Email: douglasalves395@gmail.com
+   * LinkedIn: www.linkedin.com/in/douglas0n 
 
 
 <!--
