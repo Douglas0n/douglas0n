@@ -1,4 +1,4 @@
-### Hi! 👋 你好
+### Hi! 👋
 
 👯 I want to collaborate on:
    * Javascript projects and frameworks
