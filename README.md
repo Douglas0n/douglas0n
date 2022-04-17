@@ -11,7 +11,7 @@
 📫 How to find me:
    * Twitter: @Douglas0n
    * Instagram: douglas0n
-   * Email: douglasalves395@gmail.com
+   * Email: douglas.venancio@outlook.com.br
    * LinkedIn: www.linkedin.com/in/douglas0n 
 
 
