@@ -1,19 +1,19 @@
-### Hi! 👋
+<a href="https://www.packtpub.com/product/enterprise-react-development-with-umijs/9781803238968">
+  <img width="240" align="right" src="https://camo.githubusercontent.com/59407a367438908b4f98b9f734f62f9d7333605a8b838fbf41ed0441e3b53152/68747470733a2f2f7374617469632e7061636b742d63646e2e636f6d2f70726f64756374732f393738313830333233383936382f636f7665722f736d616c6c6572">
+</a>
 
-👯 I want to collaborate on:
-   * Javascript projects and frameworks
-   * Translation into Portuguese and English (docs and projects in javascript)
+## 👋 Hi there! I'm Douglas
 
-⚡ Fun fact:
-   *this is the first page on the internet: http://info.cern.ch/
-   (no, it's not google!)*
+- 👨‍💻 I'm working as a **Software Engineer** at **[Albert Einstein Hospital](https://www.einstein.br/en/about-einstein/the-sociedade-beneficente-israelita-brasileira-albert-einstein/timeline)**
+- 📙 I wrote a **[book](https://www.packtpub.com/product/enterprise-react-development-with-umijs/9781803238968)** about **React and 🍚 UmiJS** for **[Packt](https://www.packtpub.com)**
+- 💻 I love to code in **Node.js**, **TypeScript**, and **C#**
+- ⚡ I automate things with **Terraform**
 
-📫 How to find me:
-   * Twitter: @Douglas0n
-   * Instagram: douglas0n
-   * Email: douglas.venancio@outlook.com.br
-   * LinkedIn: www.linkedin.com/in/douglas0n 
-
+- 📫 How to reach me:
+  - Twitter: [@Douglas0n](https://twitter.com/Douglas0n)
+  - Instagram: [douglas0n](https://www.instagram.com/douglas0n/)
+  - Email: [douglas.venancio@outlook.com.br](mailto:douglas.venancio@outlook.com.br)
+  - LinkedIn: [linkedin.com/in/douglas0n](https://www.linkedin.com/in/douglas0n)
 
 <!--
 **Douglas0n/douglas0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
