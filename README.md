@@ -11,7 +11,6 @@
 
 - 📫 How to reach me:
   - Twitter: [@Douglas0n](https://twitter.com/Douglas0n)
-  - Instagram: [douglas0n](https://www.instagram.com/douglas0n/)
   - Email: [contact@douglas0n.co](mailto:contact@douglas0n.co)
   - LinkedIn: [linkedin.com/in/douglas0n](https://www.linkedin.com/in/douglas0n)
   - Website: [www.douglas0n.co](https://www.douglas0n.co)
