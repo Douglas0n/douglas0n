@@ -1,5 +1,5 @@
 <a href="https://www.packtpub.com/product/enterprise-react-development-with-umijs/9781803238968">
-  <img width="240" align="right" src="https://camo.githubusercontent.com/59407a367438908b4f98b9f734f62f9d7333605a8b838fbf41ed0441e3b53152/68747470733a2f2f7374617469632e7061636b742d63646e2e636f6d2f70726f64756374732f393738313830333233383936382f636f7665722f736d616c6c6572">
+  <img width="240" align="right" src="https://content.packt.com/_/image/original/B18503/cover_image_large.jpg">
 </a>
 
 ## 👋 Hi there! I'm Douglas
