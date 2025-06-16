@@ -4,7 +4,7 @@
 
 ## 👋 Hi there! I'm Douglas
 
-- 👨‍💻 I'm working as a **Software Engineer** at **[Albert Einstein Hospital](https://www.einstein.br/en/about-einstein/the-sociedade-beneficente-israelita-brasileira-albert-einstein/timeline)**
+- 👨‍💻 I'm working as a **Software Architect** at **[Infinity Doctors](https://infinitydoctors.com/)**
 - 📙 I wrote a **[book](https://www.packtpub.com/product/enterprise-react-development-with-umijs/9781803238968)** about **React and 🍚 UmiJS** for **[Packt](https://www.packtpub.com)**
 - 💻 I love to code in **Node.js**, **TypeScript**, and **Python**
 - ⚡ I automate things with **Terraform**
